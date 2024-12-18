@@ -38,6 +38,7 @@
 
 #include <memory>
 #include <string>
+#include <optional>
 #include <unordered_map>
 #include <unordered_set>
 

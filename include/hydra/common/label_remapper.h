@@ -1,6 +1,9 @@
 #pragma once
 
 #include <map>
+#include <cstdint>
+#include <optional>
+#include <string>
 
 namespace hydra {
 
